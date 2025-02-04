@@ -1,4 +1,4 @@
-# Advanced Neural Networks for CIFAR-10
+# Neural Networks for CIFAR-10
 
 This notebook explores different neural network architectures for image classification on the **CIFAR-10 dataset**. It includes multiple implementations, progressing from simpler models to an advanced **Convolutional Neural Network (CNN)** achieving at least **85% accuracy**.
 
